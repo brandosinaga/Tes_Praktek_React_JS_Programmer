@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tes_Praktek_React_JS_Programmer/static/css/main.a669ec19.css",
+    "main.js": "/Tes_Praktek_React_JS_Programmer/static/js/main.3bd799be.js",
+    "static/js/787.8c4855f3.chunk.js": "/Tes_Praktek_React_JS_Programmer/static/js/787.8c4855f3.chunk.js",
+    "index.html": "/Tes_Praktek_React_JS_Programmer/index.html",
+    "main.a669ec19.css.map": "/Tes_Praktek_React_JS_Programmer/static/css/main.a669ec19.css.map",
+    "main.3bd799be.js.map": "/Tes_Praktek_React_JS_Programmer/static/js/main.3bd799be.js.map",
+    "787.8c4855f3.chunk.js.map": "/Tes_Praktek_React_JS_Programmer/static/js/787.8c4855f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a669ec19.css",
+    "static/js/main.3bd799be.js"
+  ]
+}
